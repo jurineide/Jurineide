@@ -8,5 +8,7 @@
 ![.NET](https://img.icons8.com/color/48/000000/net-framework.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 
