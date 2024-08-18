@@ -2,6 +2,10 @@
 
 Bem vindx ao meu GitHub!!
 Abaixo as linguagens e framework que eu já tive o prazer de trabalhar.
+Sou uma pessoa curiosa, e para mim conhecimento nunca é demais.
+Quero poder estar estudando até o dia que meu cerebro parar de funcionar...
+E encontrei na TI essa oportunidade!!
+Cada coisa nova que aprendo, me faz querer aprender mais e mais....
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
